@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imaoharsh&theme=radical)
+[![](https://visitcount.itsvg.in/api?id=imaoharsh&label=HARSHIT&icon=8&pretty=false)](https://visitcount.itsvg.in)
