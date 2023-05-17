@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![](https://visitcount.itsvg.in/api?id=imaoharsh&label=HARSHIT&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
 **imaoharsh/imaoharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imaoharsh&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=imaoharsh&label=HARSHIT&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
