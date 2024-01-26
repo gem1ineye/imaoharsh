@@ -1,6 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center">
-<a href="https://github.com/kartik-gupta-ij?tab=repositories](https://github.com/imaoharsh?tab=repositories" target="_blank" rel="noreferrer"><img src="readme.gif" alt="hello-gif"/></a>
+<a href="https://github.com/imaoharsh?tab=repositories" target="_blank" rel="noreferrer"><img src="readme.gif" alt="hello-gif"/></a>
+<img align="right" alt="Work!" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 </p>
 
 # Hi, I'm HARSHIT <img src="/hello.gif" width="30px" height="30px">
