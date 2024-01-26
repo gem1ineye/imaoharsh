@@ -1,16 +1,105 @@
-### Hi there 👋
-[![](https://visitcount.itsvg.in/api?id=imaoharsh&label=HARSHIT&icon=8&pretty=false)](https://visitcount.itsvg.in)
+<!-- markdownlint-disable-next-line -->
+<p align="center">
+<a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img src="readme.gif" alt="hello-gif"/></a>
+</p>
 
-**imaoharsh/imaoharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm HARSHIT <img src="/hello.gif" width="30px" height="30px">
+<p>
 
-Here are some ideas to get you started:
+* :wave: I'm a 22 year old engineering student, who loves to code and learn new things. <br>
+* 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
+* 🤝 I'm always open to collaborating and connecting to people.<br>
+* 🌏 Currently I am learning DSA and C++ Advanced Topics.
+</p>
+<br>
 
-- 🔭 I’m currently working on Web Devlopment
-- 🌱 I’m currently learning C/C++
-- about me I want to learn AI ML ,Web Devlopment, CyberSecurity, BlockChain,Little bit of Graphic Designing
-- 📫 How to reach me: https://www.linkedin.com/in/harshofficial/
-- 😄 Pronouns: He/Him
+<hr>
+<p align="center">
+    <i><a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer">🔨Languages and Tools used ⚒</a></i>
+    <p align="center">
+        <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> 
+    </p>
+</p>
 
+<hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imaoharsh&theme=radical)
+<p align="center">
+    <i> 📈 GitHub Stats</i>
+        <p align="center">
+       <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-gupta-ij&bg_color=0E1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /></a> 
+            <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=kartik-gupta-ij&show_icons=true&theme=tokyonight"/></a>
+            <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-gupta-ij&show_icons=true&theme=tokyonight" /></a>
+            </p>
+</p>
 
+<hr>
+<p align="center">
+    <i>Find me around the Web!!! 🌎</i>
+    <p align="center">
+        <a href="https://twitter.com/kartik_gupta_ij" alt="Twitter"><img
+                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/twitter.svg"></a>
+        <a href="https://www.linkedin.com/in/kartik-gupta-ij/" alt="Linkedin"><img
+                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/linkedin.svg"></a>
+        <a href="mailto:kartikgupta7267@gmail.com" alt="gmail"><img
+                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/gmail.svg"></a>
+    </p>
+</p><!-- markdownlint-disable-next-line -->
+<p align="center">
+<a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img src="readme.gif" alt="hello-gif"/></a>
+</p>
+
+# Hi, I'm Kartik <img src="/hello.gif" width="30px" height="30px">
+<p>
+
+* :wave: I'm a 21 year old engineering student, who loves to code and learn new things. <br>
+* 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
+* 🤝 I'm always open to collaborating and connecting to people.<br>
+* 🌏 Currently I am learning DSA and C++ Advanced Topics.
+</p>
+<br>
+
+<hr>
+<p align="center">
+    <i><a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer">🔨Languages and Tools used ⚒</a></i>
+    <p align="center">
+        <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> 
+    </p>
+</p>
+
+<hr>
+
+<p align="center">
+    <i> 📈 GitHub Stats</i>
+        <p align="center">
+       <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-gupta-ij&bg_color=0E1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /></a> 
+            <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=kartik-gupta-ij&show_icons=true&theme=tokyonight"/></a>
+            <a href="https://github.com/kartik-gupta-ij?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-gupta-ij&show_icons=true&theme=tokyonight" /></a>
+            </p>
+</p>
+
+<hr>
+<p align="center">
+    <i>Find me around the Web!!! 🌎</i>
+    <p align="center">
+        <a href="https://twitter.com/kartik_gupta_ij" alt="Twitter"><img
+                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/twitter.svg"></a>
+        <a href="https://www.linkedin.com/in/kartik-gupta-ij/" alt="Linkedin"><img
+                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/linkedin.svg"></a>
+        <a href="mailto:kartikgupta7267@gmail.com" alt="gmail"><img
+                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/gmail.svg"></a>
+    </p>
+</p>
