@@ -7,6 +7,8 @@
 # Hi, I'm HARSHIT <img src="/hello.gif" width="30px" height="30px">
 <p>
 
+<img align="right" alt="Work!" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
+
 * :wave: I'm a 22 year old engineering student, who loves to code and learn new things. <br>
 * 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
 * 🤝 I'm always open to collaborating and connecting to people.<br>
