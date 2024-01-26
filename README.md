@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
 <!-- markdownlint-disable-next-line -->
 <p align="center">
