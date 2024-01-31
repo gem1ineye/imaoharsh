@@ -1,62 +1,28 @@
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif">
-</p>
+![Hello](docs/hello.svg)
 
-<!-- markdownlint-disable-next-line -->
-<p align="center">
-<a href="https://github.com/imaoharsh?tab=repositories" target="_blank" rel="noreferrer"><img src="readme.gif" alt="hello-gif"/></a>
-<img align="right" alt="Work!" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
-</p>
+#### :rocket: My Projects
 
-# Hi, I'm HARSHIT <img src="/hello.gif" width="30px" height="30px">
-<p>
+* GitHub Actions
+    * [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - Create a 3D GitHub Contribution Calendar.
+* VS Code extensions ([marketplace](https://marketplace.visualstudio.com/publishers/yoshi389111))
+    * [yoshi389111/vscode-md-table-rainbow](https://github.com/yoshi389111/vscode-md-table-rainbow) - Color each column of the markdown table.
+    * [yoshi389111/visible-whitespace](https://github.com/yoshi389111/visible-whitespace) - Make whitespace visible.
+* Command line tools
+    * [yoshi389111/pong-is-not-ping](https://github.com/yoshi389111/pong-is-not-ping) - POng is Not pinG
+    * [yoshi389111/power-hello](https://github.com/yoshi389111/power-hello) - Create SVG images of powerful keystrokes.
+    * [yoshi389111/git-turf](https://github.com/yoshi389111/git-turf) - Outputs ASCII art to the GitHub contribution graph.
+    * [yoshi389111/git-caesar](https://github.com/yoshi389111/git-caesar) - Encrypt/decrypt files passwordlessly using GitHub's public key.
+* Tech blog: [dev.to](https://dev.to/yoshi389111)
 
-<img align="right" alt="Work!" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
+#### :japan: My Projects (Japanease only)
 
-* :wave: I'm a 22 year old engineering student, who loves to code and learn new things. <br>
-* 🎯 My goal is to contribute to open-source and learn new things as much as possible.<br>
-* 🤝 I'm always open to collaborating and connecting to people.<br>
-* 🌏 Currently I am learning DSA and C++ Advanced Topics.
-</p>
-<br>
+* [yoshi389111/kinokobooks](https://github.com/yoshi389111/kinokobooks) - 「きのこ本」を勝手に電子書籍化
+* [yoshi389111/dq1pswd](https://github.com/yoshi389111/dq1pswd) - ふっかつのじゅもんを作れます。１の方です。
+* [yoshi389111/dq2pswd](https://github.com/yoshi389111/dq2pswd) - ふっかつのじゅもんを作れます。２の方です。
+* Tech blog: [Qiita](https://qiita.com/yoshi389111) / [Zenn](https://zenn.dev/yoshi389111)
 
-<hr>
-<p align="center">
-    <i><a href="https://github.com/imaoharsh?tab=repositories" target="_blank" rel="noreferrer">🔨Languages and Tools used ⚒</a></i>
-    <p align="center">
-        <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-        <br>
-         <a href="https://www.leetcode.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36" height="34" bottom-paddding="10" alt="Jaake Leetcode kar" /></a> 
-        
-    
-</p>
+#### :memo: Misc
 
-<hr>
+* [LGTM collections](https://yoshi389111.github.io/yoshi389111/lgtm.html)
 
-<p align="center">
-    <i> 📈 GitHub Stats</i>
-        <p align="center">
-       <a href="https://github.com/imaoharsh?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=imaoharsh&bg_color=0E1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /></a> 
-            <a href="https://github.com/imaoharsh?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=imaoharsh&show_icons=true&theme=tokyonight"/></a>
-            <a href="https://github.com/imaoharsh?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=imaoharsh&show_icons=true&theme=tokyonight" /></a>
-            </p>
-</p>
-
-<hr>
-<p align="center">
-    <i>Find me around the Web!!! 🌎</i>
-    <p align="center">
-        <a href="https://twitter.com/" alt="Twitter"><img
-                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/twitter.svg"></a>
-        <a href="https://www.linkedin.com/in/harshofficial" alt="Linkedin"><img
-                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/linkedin.svg"></a>
-        <a href="mailto:harshitnerd@gmail.com" alt="gmail"><img
-                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/gmail.svg"></a>
-    </p>
+![](./profile-3d-contrib/profile-green-animate.svg)
