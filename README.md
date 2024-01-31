@@ -65,3 +65,4 @@
         <a href="mailto:harshitnerd@gmail.com" alt="gmail"><img
                 src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/gmail.svg"></a>
     </p>
+![](./profile-3d-contrib/profile-green-animate.svg)
