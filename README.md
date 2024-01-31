@@ -47,9 +47,3 @@
 * GitHub Actions
     * [yoshi389111/github-profile-3d-contrib](https://github.com/imaoharsh/github-profile-3d-contrib) - Create a 3D GitHub Contribution Calendar.
 
-
-#### :memo: Misc
-
-* [LGTM collections](https://yoshi389111.github.io/yoshi389111/lgtm.html)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
