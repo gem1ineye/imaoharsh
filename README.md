@@ -3,7 +3,7 @@
 #### :rocket: My Projects
 
 * GitHub Actions
-    * [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - Create a 3D GitHub Contribution Calendar.
+    * [yoshi389111/github-profile-3d-contrib](https://github.com/imaoharsh/github-profile-3d-contrib) - Create a 3D GitHub Contribution Calendar.
 * VS Code extensions ([marketplace](https://marketplace.visualstudio.com/publishers/yoshi389111))
     * [yoshi389111/vscode-md-table-rainbow](https://github.com/yoshi389111/vscode-md-table-rainbow) - Color each column of the markdown table.
     * [yoshi389111/visible-whitespace](https://github.com/yoshi389111/visible-whitespace) - Make whitespace visible.
