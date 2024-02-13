@@ -3,7 +3,7 @@
 
 <p align="center">
   <img  src="lofiboy.webp"/>
-  <img width="100%" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif">
+  
 </p>
 
 <!-- markdownlint-disable-next-line -->
