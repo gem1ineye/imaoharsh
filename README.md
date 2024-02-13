@@ -44,25 +44,3 @@
 <hr>
 
 
-
-<p align="center">
-    <i> 📈 GitHub Stats</i>
-        <p align="center">
-       <a href="https://github.com/imaoharsh?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=imaoharsh&bg_color=0E1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /></a> 
-            <a href="https://github.com/imaoharsh?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=imaoharsh&show_icons=true&theme=tokyonight"/></a>
-            <a href="https://github.com/imaoharsh?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=imaoharsh&show_icons=true&theme=tokyonight" /></a>
-            </p>
-</p>
-
-<hr>
-<p align="center">
-    <i>Find me around the Web!!! 🌎</i>
-    <p align="center">
-        <a href="https://twitter.com/" alt="Twitter"><img
-                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/twitter.svg"></a>
-        <a href="https://www.linkedin.com/in/harshofficial" alt="Linkedin"><img
-                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/linkedin.svg"></a>
-        <a href="mailto:harshitnerd@gmail.com" alt="gmail"><img
-                src="https://github.com/kartik-gupta-ij/kartik-gupta-ij/blob/main/assests/gmail.svg"></a>
-    </p>
-![](./profile-3d-contrib/profile-gitblock.svg)
