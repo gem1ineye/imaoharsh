@@ -42,5 +42,5 @@
 </p>
 
 <hr>
-![imaoharsh's Stats](https://github-readme-stats.vercel.app/api?username=imaoharsh&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+https://github-readme-stats.vercel.app/api?username=imaoharsh&theme=nightowl&show_icons=true&hide_border=true&count_private=true
 
